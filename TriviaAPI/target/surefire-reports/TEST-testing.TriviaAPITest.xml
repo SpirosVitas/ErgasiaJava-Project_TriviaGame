@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="testing.TriviaAPITest" time="14.862" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\target\test-classes;C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\target\classes;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.1\jackson-databind-2.12.1.jar;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.1\jackson-annotations-2.12.1.jar;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.1\jackson-core-2.12.1.jar;C:\Users\spivi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\spivi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\spivi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\spivi\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\spivi\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\spivi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\spivi\.m2\repository\org\apache\commons\commons-text\1.8\commons-text-1.8.jar;C:\Users\spivi\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Athens"/>
+    <property name="user.country.format" value="150"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\spivi\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\spivi\AppData\Local\Temp\surefire9408670142074868325\surefirebooter-20250207213919673_3.jar C:\Users\spivi\AppData\Local\Temp\surefire9408670142074868325 2025-02-07T21-39-19_099-jvmRun1 surefire-20250207213919673_1tmp surefire_0-20250207213919673_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\target\test-classes;C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\target\classes;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.1\jackson-databind-2.12.1.jar;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.1\jackson-annotations-2.12.1.jar;C:\Users\spivi\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.1\jackson-core-2.12.1.jar;C:\Users\spivi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\spivi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\spivi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\spivi\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\spivi\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\spivi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\spivi\.m2\repository\org\apache\commons\commons-text\1.8\commons-text-1.8.jar;C:\Users\spivi\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\spivi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-09-17"/>
+    <property name="java.home" value="C:\Users\spivi\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\spivi\eclipse-workspace_meta\TriviaAPI"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\spivi\AppData\Local\Temp\surefire9408670142074868325\surefirebooter-20250207213919673_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23+37"/>
+    <property name="user.name" value="spivi"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-23+37"/>
+    <property name="localRepository" value="C:\Users\spivi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\spivi\AppData\Local\Temp\"/>
+    <property name="java.version" value="23"/>
+    <property name="user.dir" value="C:\Users\spivi\eclipse-workspace_meta\TriviaAPI"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\spivi\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/spivi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706/jre/bin/server;C:/Users/spivi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706/jre/bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\spivi\AppData\Local\Microsoft\WindowsApps;;C:\Users\spivi\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="23+37"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testgetQuestionsWithAllParameters" classname="testing.TriviaAPITest" time="8.981">
+    <system-out><![CDATA[Category Entertainment: Video Games
+Type multiple
+When was Club Penguin launched?
+October 24, 2005[October 21, 2005, March 29, 2006, November 22, 2004]
+Category Entertainment: Video Games
+Type multiple
+Sean Bean voices the character of &quot;Martin Septim&quot; in which Elder Scrolls game?
+The Elder Scrolls IV: Oblivion[The Elder Scrolls V: Skyrim, The Elder Scrolls III: Morrowind , The Elder Scrolls Online]
+Category Entertainment: Video Games
+Type multiple
+Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?
+Nintendo&reg; Co. Ltd. | GameCube&trade;[Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2, Microsoft&reg; Game Studios&trade; | XBox&trade;, Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;]
+Category Entertainment: Video Games
+Type multiple
+How many unique items does &quot;Borderlands 2&quot; claim to have?
+87 Bazillion [87 Million, 87 Trillion, 87 Gazillion ]
+Category Entertainment: Video Games
+Type multiple
+In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?
+Half Human / Half Bear[A Human, Half Wolf / Half Bear, Half Tiger /  Half Human]
+Category Entertainment: Video Games
+Type multiple
+What is the browser game Kantai Collection heavily inspired by?
+Second World War[Manga, World of Warcraft, An Anime]
+Category Entertainment: Video Games
+Type multiple
+Which of the following Pok&eacute;mon games released first?
+Pok&eacute;mon Crystal[Pok&eacute;mon Platinum, Pok&eacute;mon FireRed, Pok&eacute;mon Black]
+Category Entertainment: Video Games
+Type multiple
+In the first Left 4 Dead, you can play as either of these four characters.
+Francis, Bill, Zoey, and Louis[Bender, Andrew, Allison, and Brian, Coach, Ellis, Nick, and Rochelle, Harry, Ron, Hermione and Dumbledore]
+Category Entertainment: Video Games
+Type multiple
+In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?
+Izayoi Sakuya[Hakurei Reimu, Kirisame Marisa, Kochiya Sanae]
+Category Entertainment: Video Games
+Type multiple
+In what year was &quot;Super Mario Sunshine&quot; released?
+2002[2003, 2000, 2004]
+]]></system-out>
+  </testcase>
+  <testcase name="testgetQuestions" classname="testing.TriviaAPITest" time="5.574">
+    <system-out><![CDATA[Category Entertainment: Video Games
+Type boolean
+In Monster Hunter Generations, guild style is a type of hunting style.
+True[False]
+Category Entertainment: Video Games
+Type multiple
+When was the Sega Genesis released in Japan?
+October 29, 1988[August 14, 1989, November 30, 1990, September 1, 1986]
+Category Geography
+Type multiple
+The Pyrenees mountains are located on the border of which two countries?
+France and Spain[Italy and Switzerland, Norway and Sweden, Russia and Ukraine]
+Category Entertainment: Video Games
+Type multiple
+In the game Enter the Gungeon, which one of these is not a playable character?
+The Wizard[The Bullet, The Robot, The Cultist]
+Category Science: Computers
+Type multiple
+The programming language &#039;Swift&#039; was created to replace what other programming language?
+Objective-C[C#, Ruby, C++]
+Category Entertainment: Video Games
+Type boolean
+In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.
+False[True]
+Category Entertainment: Video Games
+Type multiple
+In the &quot;Ace Attorney&quot; series, what is the relationship between Apollo Justice and Trucy Wright?
+They&#039;re half-siblings[They&#039;re co-workers, They&#039;re friends, They&#039;re both attorneys]
+Category Entertainment: Video Games
+Type multiple
+What game was used to advertise Steam?
+Counter-Strike 1.6[Half-Life, Half-Life 2, Team Fortress]
+Category Entertainment: Music
+Type boolean
+Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.
+False[True]
+Category Entertainment: Japanese Anime &amp; Manga
+Type multiple
+In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?
+Uraraka[Bakugo, Deku, Asui ]
+]]></system-out>
+  </testcase>
+</testsuite>

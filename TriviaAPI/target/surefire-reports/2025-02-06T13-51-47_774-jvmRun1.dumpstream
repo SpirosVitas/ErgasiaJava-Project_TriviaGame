@@ -1,0 +1,27 @@
+# Created at 2025-02-06T13:52:01.588
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2025-02-06T13:52:01.642
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2025-02-06T13:52:01.646
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 32744 bytes. Error detail: Chunk::new'.
+
+# Created at 2025-02-06T13:52:01.650
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2025-02-06T13:52:01.673
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\hs_err_pid22612.log'.
+
+# Created at 2025-02-06T13:52:03.205
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[thread 15028 also had an error]'.
+
+# Created at 2025-02-06T13:52:03.213
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2025-02-06T13:52:03.218
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
+# Created at 2025-02-06T13:52:04.266
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\spivi\eclipse-workspace_meta\TriviaAPI\replay_pid22612.log'.
+
